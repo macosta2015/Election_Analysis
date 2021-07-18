@@ -15,6 +15,7 @@ file_to_load = os.path.join("/Users/marioacosta/Desktop/Bootcamp/challenges/Chal
 #df = pd.read_excel (r'/Users/marioacosta/Desktop/Bootcamp/challenges/Challenge\ 3/Election_Analysis/Resources/election_results.csv')
 # Assign a variable to save the file to a path.
 file_to_save = os.path.join("/Users/marioacosta/Desktop/Bootcamp/challenges/Challenge3/Election_Analysis/analysis/election_analysis.txt")
+file_to_save = os.path.join("/Users/marioacosta/Desktop/Bootcamp/challenges/Challenge3/Election_Analysis/analysis/election_results.txt")
 
 # 1. Initialize a total vote counter.
 total_votes = 0

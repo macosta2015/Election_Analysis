@@ -60,7 +60,7 @@ In below you will need to change the file pad for it to work.
 ## Projection Overview
 ### Need to open the excel file. 
 ### Need to iterate through the excel and read the data.
-### Need variables that know where we are iterating and counting the votes. Please note that we have different candidates three different candidates. 
+### Need variables that know where we are iterating and counting the votes. Please note that we have different candidates, three different candidates. 
 
 ## Resources
 ### github, have all the code and data shared 
@@ -74,4 +74,4 @@ In below you will need to change the file pad for it to work.
 ### While coding, it will be important to always be aware of the variables and the loops. Having nested loops becomes challenging. The order of the loops is really important. In addition, having coments in the code will always help. 
 
 ## Challenge Summary
-### This is a great example on how you are able to apply coding skills into real life applications. 
+### This is a great example on how you are able to apply coding skills into real life applications. Instead of counting vote by vote you can use code to get the results. This is great, as you can then change or use another excel file.

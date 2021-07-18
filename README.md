@@ -25,17 +25,17 @@
 
 <img width="1071" alt="Screen Shot 2021-07-18 at 11 51 09 AM" src="https://user-images.githubusercontent.com/25726054/126073730-d2bcb262-983f-4997-93aa-594e04f3bdf3.png">
 
-#In the above file it is possible to see the declared variables and the file pad. (Have plenty of commented code :D, had difficulties with it)
+# In the above file it is possible to see the declared variables and the file pad. (Have plenty of commented code :D, had difficulties with it)
 
 
 <img width="828" alt="Screen Shot 2021-07-18 at 11 59 25 AM" src="https://user-images.githubusercontent.com/25726054/126074034-bb1f43a1-fe67-4a6b-8852-590a117ba68c.png">
-#In the above we are going to load all the information from the the excel.
+# In the above we are going to load all the information from the the excel.
 <img width="1267" alt="Screen Shot 2021-07-18 at 12 03 34 PM" src="https://user-images.githubusercontent.com/25726054/126074167-1048fa5a-8ab1-4fc5-ad02-279724e82040.png">
 ![Uploading Screen Shot 2021-07-18 at 12.03.34 PM.png…]()
 
 
 <img width="478" alt="Screen Shot 2021-07-18 at 12 01 06 PM" src="https://user-images.githubusercontent.com/25726054/126074093-dbfae2f3-ccec-40a0-a6ee-5310eeeae4c2.png">
-#In the above we are going to write down the election results so that they can be printed out.  
+# In the above we are going to write down the election results so that they can be printed out.  
 
 # Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
